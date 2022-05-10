@@ -2,7 +2,7 @@
 
 1. Using event on form
 
-`
+```js
 import React, {ChangeEvent, useState} from 'react'
 
 const Signin = () => {
@@ -55,4 +55,4 @@ return (
 }
 
 export default Signin;
-`
+```
