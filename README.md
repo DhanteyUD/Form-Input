@@ -1,4 +1,4 @@
-# React-typescript Form Input Challenge
+# React-typescript Form Input
 
 1. Use event on form :
 
