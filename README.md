@@ -115,7 +115,7 @@ return (
 export default Signin;
 ```
 
-3. Using prevState with form sign-up :
+3. Functional Sign-up Form :
 
 ```js
 import React, { ChangeEvent, useState, useEffect } from "react";
